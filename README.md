@@ -27,8 +27,9 @@
 
 **Compliance:** EAR/TSU notified · EU AI Act Article 5 reviewed · Export Control Notice included
 
-📄 [Read the launch article](https://medium.com/@srini.anant/your-ai-agent-is-leaking-your-data-we-built-a-privacy-firewall-to-stop-it-cc5ea27d2589) · 🌐 [Landing page](https://github.com/openobscure/openobscure)
-
+📄 [Read the launch article](https://medium.com/@srini.anant/your-ai-agent-is-leaking-your-data-we-built-a-privacy-firewall-to-stop-it-cc5ea27d2589) 
+🌐 [Landing page](https://openobscure.ai)
+:octocat: [**OpenObscure**](https://github.com/openobscure/openobscure)
 ---
 
 ## 🗂️ Legacy Research Projects
