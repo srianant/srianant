@@ -1,6 +1,6 @@
 # Srini Ananthakrishnan
 
-**Creator, OpenObscure** · Director of Data Security & AI Privacy @ CNA Insurance · Distributed systems, AI/ML, and Privacy Engineering
+**Creator @OpenObscure** — On-device privacy for AI agents. Focused on distributed systems, representation engineering, and local LLM privacy.
 
 ---
 
